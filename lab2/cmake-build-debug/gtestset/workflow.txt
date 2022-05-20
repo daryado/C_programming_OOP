@@ -1,0 +1,8 @@
+desc
+0 = readfile in.txt
+2 = grep 3
+1 = replace 2 4
+3 = sort
+csed
+0 -> 1 -> 2 -> 3 
+

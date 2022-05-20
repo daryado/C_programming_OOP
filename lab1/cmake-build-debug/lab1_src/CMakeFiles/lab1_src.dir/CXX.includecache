@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1/Desktop/bit/Upper_project/lab1_src/TritValue.h
+iostream
+-
+
+C:/Users/1/Desktop/bit/Upper_project/lab1_src/Tritset.cpp
+iostream
+-
+cmath
+-
+Tritset.h
+C:/Users/1/Desktop/bit/Upper_project/lab1_src/Tritset.h
+
+C:/Users/1/Desktop/bit/Upper_project/lab1_src/Tritset.h
+cstdint
+-
+iostream
+-
+cstring
+-
+unordered_map
+-
+TritValue.h
+C:/Users/1/Desktop/bit/Upper_project/lab1_src/TritValue.h
+

@@ -1,0 +1,9 @@
+desc
+code1 = readfile run_test_readfile.txt
+code2 = writefile run_test_writefile.txt
+code3 = grep runin
+code4 = sort
+code5 = dump run_test_dumpfile.txt
+code6 = replace runin runout
+csed
+code1 -> code3 -> code6 -> code5 -> code4 -> code2

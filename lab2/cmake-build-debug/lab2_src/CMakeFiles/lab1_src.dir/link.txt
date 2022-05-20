@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc liblab1_src.a  CMakeFiles/lab1_src.dir/Application.cpp.obj CMakeFiles/lab1_src.dir/Block.cpp.obj CMakeFiles/lab1_src.dir/BlockProcessing.cpp.obj CMakeFiles/lab1_src.dir/Executor.cpp.obj CMakeFiles/lab1_src.dir/Keywords.cpp.obj CMakeFiles/lab1_src.dir/Parser.cpp.obj CMakeFiles/lab1_src.dir/Workers.cpp.obj
+C:\MinGW\bin\ranlib.exe liblab1_src.a
